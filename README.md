@@ -1,6 +1,6 @@
 Nagstamon
 =========
-
+**Đây chỉ là bản fork**
 **Major development at the moment only happens in the 'qt' branch.**
 
 To make this work on Yosemite:
